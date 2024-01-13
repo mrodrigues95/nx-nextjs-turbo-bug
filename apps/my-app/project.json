@@ -28,7 +28,8 @@
       "configurations": {
         "development": {
           "buildTarget": "my-app:build:development",
-          "dev": true
+          "dev": true,
+          "turbo": true
         },
         "production": {
           "buildTarget": "my-app:build:production",
